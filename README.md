@@ -624,22 +624,6 @@ For questions or collaboration:
 
 ---
 
-## 📚 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{alharbi2024adaptive,
-  title={Intelligent Adaptive Cyber Defense Framework for Securing Renewable Energy Grids: A Hybrid AI-Driven Approach for Industry 4.0},
-  author={Alharbi, Fatemah},
-  journal={IEEE Access},
-  year={2025},
-  publisher={IEEE}
-}
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
