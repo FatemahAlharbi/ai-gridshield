@@ -619,8 +619,8 @@ Contributions are welcome! Please follow these guidelines:
 ## 📧 Contact
 
 For questions or collaboration:
-- **Email:** research@example.com
-- **Issues:** [GitHub Issues](https://github.com/your-repo/issues)
+- **Email:** fmhharbi@taibahu.edu.sa
+- **Issues:** [GitHub Issues](https://github.com/FatemahAlharbi/ai-gridshield/issues)
 
 ---
 
@@ -633,7 +633,7 @@ If you use this code in your research, please cite:
   title={Intelligent Adaptive Cyber Defense Framework for Securing Renewable Energy Grids: A Hybrid AI-Driven Approach for Industry 4.0},
   author={Alharbi, Fatemah},
   journal={IEEE Access},
-  year={2024},
+  year={2025},
   publisher={IEEE}
 }
 ```
@@ -648,7 +648,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Research supported by Taibah University, Saudi Arabia
+- Research supported by Taibah University, Saudi Arabia with grant number (1008-13-447)
 - Dataset inspired by real-world renewable energy grid architectures
 - Thanks to the open-source ML/DL community
 
